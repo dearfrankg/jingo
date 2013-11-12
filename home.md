@@ -2,13 +2,10 @@
 ## TOC
 
 ### Research
-- [finance]
-- [pdev]
-- [dev]
+- [[finance]]
+- [[pdev]]
+- [[dev]]
 
-[finance]:http://www.google.com
-[dev]:http://www.google.com
-[pdev]:http://www.google.com
 
 
 
