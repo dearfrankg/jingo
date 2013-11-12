@@ -21,7 +21,7 @@
 
 ### Tool Documentation
 - [Jingo Docs](https://github.com/claudioc/jingo)
-- Ghost [Guide|ghostGuide], [OSX Install|OsxInstall]
+- Ghost [Guide | ghostGuide], [OSX Install | OsxInstall]
 
 
 [ghostGuide]:http://docs.ghost.org/
