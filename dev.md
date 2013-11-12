@@ -6,4 +6,4 @@
 
 ## System Tools
 
-- [[xxx|sublime]]
+- [[xxx|sublime text]]
