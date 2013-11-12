@@ -6,7 +6,6 @@
 - [pdev]
 - [dev]
 
-
 [finance]:http://www.google.com
 [dev]:http://www.google.com
 [pdev]:http://www.google.com
@@ -15,13 +14,9 @@
 
 ### Hobbies
 - [chess]
-
 - [[How Jingo works|Jingo Works]]
 
-
-
 [chess]:http://www.google.com
-
 
 
 ### Jingo Help
