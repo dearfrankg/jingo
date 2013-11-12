@@ -19,6 +19,6 @@
 [chess]:http://www.google.com
 
 
-### Jingo Help
-
+### Tool Documentation
 - [Jingo Docs](https://github.com/claudioc/jingo)
+- [Ghost Docs](https://github.com/claudioc/jingo)
