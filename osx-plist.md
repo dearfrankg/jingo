@@ -1,6 +1,17 @@
 # OSX Plist
-## Debug OSX plist launch
+## Managing Plists
 
+
+### Start and Stop
+
+**start**
+`sudo launchctl load -w /Library/LaunchDaemons/com.jingo.start.plist`
+
+**stop**
+`sudo launchctl unload -w /Library/LaunchDaemons/com.jingo.start.plist`
+
+
+### Debug OSX plist launch
 
 The standard out and error keys are very useful, I redirected mine to the first terminal/shell as follows:
 
