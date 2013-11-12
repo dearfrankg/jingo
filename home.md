@@ -1,13 +1,14 @@
 # Frank's Wiki
 ## TOC
 
+### Priorities
+- [[Exercise]]
+- [[Job Search]]
+
 ### Research
 - [[finance]]
 - [[pdev]]
 - [[dev]]
-
-
-
 
 ### Hobbies
 - [chess]
