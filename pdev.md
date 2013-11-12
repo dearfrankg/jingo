@@ -1,7 +1,7 @@
 # Pdev
 ## Lessons
 
-- [Mindset]
-- [Energy Management]
-- [Effective Learning] 
-- [Speed Learning]
+- [[Mindset]]
+- [[Energy Management]]
+- [[Effective Learning]] 
+- [[Speed Learning]]
