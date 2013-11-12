@@ -10,4 +10,4 @@
 
 ## Jingo Help
 
-- [Jingo Docs][https://github.com/claudioc/jingo]
+- [Jingo Docs](https://github.com/claudioc/jingo)
