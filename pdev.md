@@ -1,5 +1,5 @@
 # Pdev
-## Lessons
+## Categories
 
 - [[Mindset]]
 - [[Energy Management]]
