@@ -21,4 +21,8 @@
 
 ### Tool Documentation
 - [Jingo Docs](https://github.com/claudioc/jingo)
-- [Ghost Docs](https://github.com/claudioc/jingo)
+- Ghost [Guide|ghostGuide], [OSX Install|OsxInstall]
+
+
+[ghostGuide]:http://docs.ghost.org/
+[OsxInstall]:http://www.howtoinstallghost.com/mac-os-x-launchd-to-keep-ghost-alive/
