@@ -1,0 +1,26 @@
+---
+  # Configuration sample file for Jingo (YAML)
+  application:
+    title: "Jingo"
+    repository: "/absolute/path/to/your/repo"
+    docSubdir: ""
+    remote: ""
+    pushInterval: 30
+    secret: "change me"
+  server:
+    hostname: "localhost"
+    port: 6067
+    localOnly: false
+    baseUrl: "http://localhost:6067"
+  authorization:
+    anonRead: true
+    validMatches: ".+"
+  authentication:
+    google:
+      enabled: false
+    alone:
+      enabled: true
+      username: "foo"
+      passwordHash: "62cdb7020ff920e5aa642c3d4066950dd1f01f4d"
+      email: ""
+
