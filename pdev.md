@@ -1,4 +1,4 @@
-# Pdev
+# Personal Development
 ## PREPARATION
 
 - [[Effective Learning]] 
