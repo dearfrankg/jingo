@@ -1,11 +1,13 @@
 # Frank's Wiki
 ## TOC
 
-- finance
+- [finance]
+- [dev]
+- [pdev]
 
-- dev
-
-- pdev
+[finance]
+[dev]
+[pdev]
 
 
 ## Jingo Help
