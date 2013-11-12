@@ -3,7 +3,7 @@
 
 ### Priorities
 - [[Exercise]]
-- [[Job Search]]
+- [Job Search]
 
 [Job Search]:https://docs.google.com/spreadsheet/ccc?key=0AhKa7-ItFfLYdGdfcVZRWUxTY053d0d2WEdvaFFKYnc#gid=0
 
