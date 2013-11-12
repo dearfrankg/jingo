@@ -1,7 +1,7 @@
 # Dev
 ## System
 
-- [[Debug OSX plist launch|OSX Plist]]
+- [[Managing Plists|OSX Plist]]
 
 
 
