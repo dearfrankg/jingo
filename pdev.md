@@ -1,7 +1,11 @@
 # Pdev
-## Categories
+## PREPARATION
 
-- [[Mindset]]
-- [[Energy Management]]
 - [[Effective Learning]] 
 - [[Speed Learning]]
+
+
+## ACTION
+- [[Mindset]]
+- [[Habits]]
+- [[Energy Management]]
