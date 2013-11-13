@@ -9,3 +9,8 @@
 - Controlling perception -- keep yourself very presentable
 - English
 - Socializing
+
+## Material
+- How to win friends and influence people -- Dale Carnegie
+- Rich Dad Poor Dad -- Robert Kiosaki
+- Success Workshop -- Darren Hardy
