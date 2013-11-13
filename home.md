@@ -3,7 +3,7 @@
 
 ### Priorities
 - [[Exercise]]
-- [The|Job Search]
+- [The][Job Search]
 - [[Ruby]] -- [[SpaRemedy]]
 
 
