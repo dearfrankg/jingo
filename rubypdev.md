@@ -11,18 +11,12 @@
 - Socializing
 
 ## Material
-- [Secrets to Networking Success|networking]
+- [7 Secrets to Networking Success][networking]
 - How to win friends and influence people -- Dale Carnegie
 - Rich Dad Poor Dad -- Robert Kiosaki
 - Success Workshop -- Darren Hardy
 - "Wooden" -- John Wooden
 
-- [foo|Network]
-- [foo|google]
-- [WTF!|ghostGuide]
 
 
-[google]: http://www.google.com
-[Network]: http://darrenhardy.success.com/2013/11/networking-success
-
-[ghostGuide]:http://docs.ghost.org/
+[Network]:http://darrenhardy.success.com/2013/11/networking-success/#more-9878
