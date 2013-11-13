@@ -1,8 +1,8 @@
 # Ruby Personal Development
-## Guidlines
-1. Remember the rules
-2. Mindset
-3. Habits
+## Guidelines
+1. Remember: use it or lose it
+2. Mindset: keep a positive attitude
+3. Habits: you are what you repeatedly do
 
 
 ## Skills
