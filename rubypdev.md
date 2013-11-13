@@ -17,7 +17,9 @@
 - Success Workshop -- Darren Hardy
 - "Wooden" -- John Wooden
 
-[foo|Network]
+- [foo|Network]
+- [foo|google]
 
 
-[Network]:(http://darrenhardy.success.com/2013/11/networking-success)
+[google]:http://www.google.com
+[Network]:http://darrenhardy.success.com/2013/11/networking-success
