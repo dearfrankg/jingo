@@ -23,13 +23,14 @@ Details about what you need to be profitable.
 - grand opening
 - Web Site
 
+**Community Involvement**
+
+- chamber of commerce
+- meet your neighbors
+
 [Pricing]:https://docs.google.com/spreadsheet/ccc?key=0AhKa7-ItFfLYdHNleE12QzJ2T0EyaUx4TUU1bnlkVkE#gid=0
 
 
-
-## Community Involvement
-- chamber of commerce
-- meet your neighbors
 
 
 ## Legal
