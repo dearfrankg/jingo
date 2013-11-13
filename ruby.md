@@ -27,7 +27,7 @@ Details about what you need to be profitable.
 
 
 
-## community involvement
+## Community Involvement
 - chamber of commerce
 - meet your neighbors
 
