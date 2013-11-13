@@ -3,8 +3,17 @@
 
 
 ## Work on yourself
+- Perception look nice
+- English
+- Socializing 
 
 ## Goals
+- Financial Goals
+- Regular Customers
+
+
+Details about what you need to be profitable.
+- Income must be more than costs
 
 
 
