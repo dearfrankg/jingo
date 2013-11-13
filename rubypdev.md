@@ -19,7 +19,7 @@
 
 - [foo|Network]
 - [foo|google]
-- [xyz|ghostGuide]
+- [xyz | ghostGuide]
 
 
 [google]: http://www.google.com
