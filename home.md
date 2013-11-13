@@ -17,7 +17,6 @@
 
 ### Hobbies
 - [chess]
-- [[How Jingo works|Jingo Works]]
 
 [chess]:http://www.google.com
 
