@@ -10,6 +10,7 @@ Details about what you need to be profitable.
 
 
 ## Marketing 
+- [[message map]]
 - [Pricing] 
 - fliers/coupon
 - grand opening
