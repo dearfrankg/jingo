@@ -6,5 +6,5 @@
 
 ## To Do List 
 
-- [] Replace SS Card 
-- []
+- [ ] Replace SS Card 
+- [ ]
