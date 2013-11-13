@@ -18,10 +18,13 @@ Details about what you need to be profitable.
 - ONE CONTRACTOR: add rooms, paint ceiling, change floor
 
 ## Marketing 
-- pricing: 
+- [Pricing] 
 - fliers/coupon
 - grand opening
 - Web Site
+
+[Pricing]:https://docs.google.com/spreadsheet/ccc?key=0AhKa7-ItFfLYdHNleE12QzJ2T0EyaUx4TUU1bnlkVkE#gid=0
+
 
 
 ## community involvement
