@@ -1,4 +1,10 @@
 # Ruby
 ## Projects we worked on...
-- [[personal development|RubyPdev]]
+- [[Personal Development|RubyPdev]]
 - [[Spa Remedy|SpaRemedy]]
+
+
+## To Do List 
+
+- [] Replace SS Card 
+- []
