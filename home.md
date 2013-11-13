@@ -23,7 +23,7 @@
 
 
 ### Tool Documentation
-- Ghost Blog: [[Ghost Guide|ghostGuide]] -- [[Ghost OSX Install|OsxInstall]]
+- Ghost Blog: [[Ghost Guide][ghostGuide]] -- [[Ghost OSX Install][OsxInstall]]
 - Jingo Wiki: [Jingo] -- [Markdown Syntax][Fireball] -- [Git Flavored Markdown][GitFlavor]
 
 
