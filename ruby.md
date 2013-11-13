@@ -5,8 +5,8 @@
 
 
 ## To Do List 
-- [ ] Replace SS Card [Instructions][replaceSS] -- [SS Form][ssForm]
-- [ ] Get cheaper phone bill [ATT Bill][attBill]
+- [ ] Replace SS Card -- [Instructions][replaceSS] -- [SS Form][ssForm]
+- [ ] Get cheaper phone bill -- [ATT Bill][attBill]
 
 
 [replaceSS]:http://www.wikihow.com/Get-a-Duplicate-Social-Security-Card
