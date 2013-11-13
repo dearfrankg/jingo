@@ -1,5 +1,4 @@
-# Spa Remedy
-## Work on yourself
-- Perception look nice
-- English
-- Socializing
+# Ruby
+## Projects we worked on...
+- [[personal development|RubyPdev]]
+- [[spa remedy|Spa Remedy]]
