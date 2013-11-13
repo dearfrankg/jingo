@@ -6,7 +6,7 @@
 
 
 ## Skills
-- Controlling perception -- keep yourself very presentable
+- Character -- keep yourself very presentable
 - English
 - Socializing
 
