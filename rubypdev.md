@@ -6,6 +6,6 @@
 
 
 ## Skills
-- Controlling perception -- look nice
+- Controlling perception -- keep yourself very presentable
 - English
 - Socializing
