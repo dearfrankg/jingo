@@ -78,3 +78,9 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 - [ ] How does Condo Rental compare with Stock Investment?
 
 [[Compare Condo Rental vs. Stock investment|compareCondoAndStock]]
+
+
+
+- [ ] Is there a guide for Responsible Hosting?
+
+`YES: [Responsible Hosting](https://www.airbnb.com/help/responsible-hosting)`
