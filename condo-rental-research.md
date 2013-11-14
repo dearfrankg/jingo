@@ -43,6 +43,13 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 
 `???`
 
+- [ ] Should you get a mortgage to lessen the risk?
+
+`???`
+
+
+
+
 - [ ] How do you find a manager for so cheap?
 
 `???`
