@@ -47,6 +47,9 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 
 `???`
 
+[[Comparison between cash-buy, mortgage, and leasing|condoPurchaseTypeComparison]]
+
+
 
 
 
