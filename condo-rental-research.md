@@ -62,3 +62,12 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 
 `YES: You need liability insurance`
 `AIRBNB: provides 1mil coverage for property damage but that does not cover jewelry, pets or liability.`
+
+- [ ] What about these fees?
+
+```
+- cleaning fees
+- management fees (he has to pay somebody to be on call)
+- condo fees
+- business license and permit fees, etc.
+```
