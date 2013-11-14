@@ -71,5 +71,7 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 - condo fees
 - property taxes
 - business license and permit fees, etc.
+- other taxes
+- utilities
 
 ```
