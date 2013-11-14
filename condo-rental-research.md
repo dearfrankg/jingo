@@ -1,7 +1,7 @@
 # Condo Rental Research
 ## Reference Info
 
-- Author: Jon Wheatley is the co-founder need/want -- [jonTwitter]
+- Author: Jon Wheatley is the co-founder need/want -- [Jon's Twitter][jonTwitter]
 - [Original Article] -- [Gizmodo Article][condoRentalArticle]
 - [AirBnb]
 - [Nest]
