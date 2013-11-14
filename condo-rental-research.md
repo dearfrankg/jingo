@@ -16,3 +16,29 @@
 [Nest]:http://nest.com/
 [Lockitron]:http://lockitron.com/
 [cheapHousing]:http://www.cbsnews.com/8334-505145_162-57588298/10-cheapest-u.s-cities-for-buying-a-home/
+
+
+## Questions that need answering
+
+- [ ] Is it legal? 
+
+LAWS: Check city laws
+HOA: Check regulations
+TAXES: Personal investment property reported on 1040 schedule E
+
+
+[online answer][legalInVegas]
+
+[legalInVegas]:http://gizmodo.com/so-is-this-legal-in-vegas-1458685302
+
+
+
+
+
+
+
+
+- [ ] Can you buy an apt for 40k still?
+- [ ] How do you find a manager for so cheap?
+- [ ] Do you need to buy insurance?
+- [ ] Does airbnb provide insurance?
