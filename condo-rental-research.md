@@ -39,6 +39,9 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 
 `???`
 
+- [ ] What about condo buying/selling fees?
+
+`???`
 
 - [ ] How do you find a manager for so cheap?
 
