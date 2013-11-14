@@ -83,4 +83,4 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 
 - [ ] Is there a guide for Responsible Hosting?
 
-`YES: [Responsible Hosting](https://www.airbnb.com/help/responsible-hosting)`
+`YES:` [Responsible Hosting](https://www.airbnb.com/help/responsible-hosting)
