@@ -73,5 +73,8 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 - business license and permit fees, etc.
 - other taxes
 - utilities
-
 ```
+
+- [ ] How does Condo Rental compare with Stock Investment?
+
+[[Compare Condo Rental vs. Stock investment|compareCondoAndStock]]
