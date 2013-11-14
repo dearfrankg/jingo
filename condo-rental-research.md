@@ -25,6 +25,7 @@
 LAWS: Check city laws
 HOA: Check regulations
 TAXES: Personal investment property reported on 1040 schedule E
+AIRBNB: Check with them
 
 
 [online answer][legalInVegas]
