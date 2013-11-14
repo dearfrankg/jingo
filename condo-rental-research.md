@@ -69,5 +69,7 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 - cleaning fees
 - management fees (he has to pay somebody to be on call)
 - condo fees
+- property taxes
 - business license and permit fees, etc.
+
 ```
