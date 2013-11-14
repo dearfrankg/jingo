@@ -1,5 +1,5 @@
 # Research
 - [[business]]
 - [[finance]]
-- [[pdev]]
+- [[personal development]]
 - [[dev]]
