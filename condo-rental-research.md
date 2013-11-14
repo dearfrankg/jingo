@@ -52,4 +52,4 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 
 - [ ] Does airbnb provide insurance?
 
-`???`
+`YES: they provide 1mil coverage for property damage but that does not cover jewelry, pets or liability.  So you need your own liability insurance.`
