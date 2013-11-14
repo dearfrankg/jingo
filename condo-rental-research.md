@@ -36,6 +36,20 @@ AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/q
 
 
 - [ ] Can you buy an apt for 40k still?
+
+`???`
+
+
 - [ ] How do you find a manager for so cheap?
+
+`???`
+
+
 - [ ] Do you need to buy insurance?
+
+`???`
+
+
 - [ ] Does airbnb provide insurance?
+
+`???`
