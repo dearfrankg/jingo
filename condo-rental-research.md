@@ -29,20 +29,10 @@ HOA: Check regulations
 TAXES: Personal investment property reported on 1040 schedule E
 AIRBNB: [Follow the local laws that are confusing](https://www.airbnb.com/help/question/376)
 
+
 - [ ] Is it easy?
 
 `YES: post your face, list and book your space.`
-
-
-[online answer][legalInVegas]
-
-[legalInVegas]:http://gizmodo.com/so-is-this-legal-in-vegas-1458685302
-
-
-
-
-
-
 
 
 - [ ] Can you buy an apt for 40k still?
