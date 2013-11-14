@@ -2,7 +2,7 @@
 ## Reference Info
 
 - Author: Jon Wheatley is the co-founder need/want -- [Jon's Twitter][jonTwitter]
-- [Original Article] -- [Gizmodo Article][condoRentalArticle]
+- [Original Article] -- [Gizmodo article with comments][condoRentalArticle]
 - [AirBnb]
 - [Nest]
 - [Lockitron]
